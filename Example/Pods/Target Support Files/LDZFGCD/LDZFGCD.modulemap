@@ -1,0 +1,6 @@
+framework module LDZFGCD {
+  umbrella header "LDZFGCD-umbrella.h"
+
+  export *
+  module * { export * }
+}
